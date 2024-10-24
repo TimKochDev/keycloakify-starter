@@ -55,3 +55,6 @@ jspm_packages
 /dist_keycloak
 /build
 /storybook-static
+
+# Since I can create new stories via `npx keycloakify add-story`, I guess, I don't need to track them in git
+*.stories.tsx 
