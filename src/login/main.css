@@ -1,5 +1,6 @@
 :root {
     --pf-global--primary-color--100: #ab8157;
+    --pf-global--primary-color--200: #122020;
 }
 
 body {
@@ -12,12 +13,15 @@ a {
 
 #kc-header {
     color: unset;
-}
-
-#kc-info-wrapper {
-    background-color: #e5ddc9;
+    text-align: center;
+    margin-bottom: 3em;
 }
 
 #kc-header-wrapper {
-    padding-top: 0;
+    padding: 0;
+}
+
+#kc-page-title {
+    text-align: left;
+    font-weight: bold;
 }
