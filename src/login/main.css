@@ -17,3 +17,7 @@ a {
 #kc-info-wrapper {
     background-color: #e5ddc9;
 }
+
+#kc-header-wrapper {
+    padding-top: 0;
+}
