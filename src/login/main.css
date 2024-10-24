@@ -1,0 +1,19 @@
+:root {
+    --pf-global--primary-color--100: #ab8157;
+}
+
+body {
+    background: none!important;
+}
+
+a {
+    color: #ab8157;
+}
+
+#kc-header {
+    color: unset;
+}
+
+#kc-info-wrapper {
+    background-color: #e5ddc9;
+}
